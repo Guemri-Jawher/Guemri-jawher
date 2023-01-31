@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Guemri-Jawher/Guemri-jawher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Jawher GUEMRI</h1>
+<h1 align="center">Hi there 👋, I'm Jawher GUEMRI</h1>
 <h3 align="center">A passionate Data Science and Machine Learning Engineering from Tunisia</h3>
 
 - 🌱 I’m currently learning **NLP, Image Processing and Computer Vision.**
